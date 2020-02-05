@@ -1,0 +1,8 @@
+{
+    "file": "staxel/item/Transformations/VorlenPotion.item",
+    "priority": 2,
+    "patch" : {
+		"icon": "mods/Xable's Potions/Transformations/VorlenPotion.qb",
+		"inHand": "mods/Xable's Potions/Transformations/VorlenPotion.qb",
+	}
+}

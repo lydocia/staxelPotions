@@ -1,0 +1,8 @@
+{
+    "file": "staxel/item/Transformations/MayorMaxPotion.item",
+    "priority": 2,
+    "patch" : {
+		"icon": "mods/Xable's Potions/Transformations/MayorMaxPotion.qb",
+		"inHand": "mods/Xable's Potions/Transformations/MayorMaxPotion.qb",
+	}
+}

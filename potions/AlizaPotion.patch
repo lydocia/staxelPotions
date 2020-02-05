@@ -1,0 +1,8 @@
+{
+    "file": "staxel/item/Transformations/AlizaPotion.item",
+    "priority": 2,
+    "patch" : {
+		"icon": "mods/Xable's Potions/Transformations/AlizaPotion.qb",
+		"inHand": "mods/Xable's Potions/Transformations/AlizaPotion.qb",
+	}
+}

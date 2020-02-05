@@ -1,0 +1,8 @@
+{
+    "file": "staxel/item/Transformations/RiahPotion.item",
+    "priority": 2,
+    "patch" : {
+		"icon": "mods/Xable's Potions/Transformations/RiahPotion.qb",
+		"inHand": "mods/Xable's Potions/Transformations/RiahPotion.qb",
+	}
+}

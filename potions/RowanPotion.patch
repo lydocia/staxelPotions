@@ -1,0 +1,8 @@
+{
+    "file": "staxel/item/Transformations/RowanPotion.item",
+    "priority": 2,
+    "patch" : {
+		"icon": "mods/Xable's Potions/Transformations/RowanPotion.qb",
+		"inHand": "mods/Xable's Potions/Transformations/RowanPotion.qb",
+	}
+}

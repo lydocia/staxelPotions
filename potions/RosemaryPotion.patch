@@ -1,0 +1,8 @@
+{
+    "file": "staxel/item/Transformations/RosemaryPotion.item",
+    "priority": 2,
+    "patch" : {
+		"icon": "mods/Xable's Potions/Transformations/RosemaryPotion.qb",
+		"inHand": "mods/Xable's Potions/Transformations/RosemaryPotion.qb",
+	}
+}
